@@ -1,0 +1,10 @@
+E:\@MyCode\Projects\Utils\FileSys\bin\Debug\FileSys.dll
+E:\@MyCode\Projects\Utils\FileSys\bin\Debug\FileSys.pdb
+E:\@MyCode\Projects\Utils\FileSys\obj\Debug\FileSys.csprojResolveAssemblyReference.cache
+E:\@MyCode\Projects\Utils\FileSys\obj\Debug\FileSys.dll
+E:\@MyCode\Projects\Utils\FileSys\obj\Debug\FileSys.pdb
+E:\@MyCode\Projects\Utils\dotNet\src\FileSys\bin\Debug\FileSys.dll
+E:\@MyCode\Projects\Utils\dotNet\src\FileSys\bin\Debug\FileSys.pdb
+E:\@MyCode\Projects\Utils\dotNet\src\FileSys\obj\Debug\FileSys.csprojResolveAssemblyReference.cache
+E:\@MyCode\Projects\Utils\dotNet\src\FileSys\obj\Debug\FileSys.dll
+E:\@MyCode\Projects\Utils\dotNet\src\FileSys\obj\Debug\FileSys.pdb

@@ -1,0 +1,16 @@
+E:\@MyCode\Projects\Utils\Utils\bin\Debug\Utils.exe.config
+E:\@MyCode\Projects\Utils\Utils\bin\Debug\Utils.exe
+E:\@MyCode\Projects\Utils\Utils\bin\Debug\Utils.pdb
+E:\@MyCode\Projects\Utils\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+E:\@MyCode\Projects\Utils\Utils\obj\Debug\Utils.exe
+E:\@MyCode\Projects\Utils\Utils\obj\Debug\Utils.pdb
+E:\@MyCode\Projects\Utils\Utils\bin\Debug\FileSys.dll
+E:\@MyCode\Projects\Utils\Utils\bin\Debug\FileSys.pdb
+E:\@MyCode\Projects\Utils\dotNet\src\Utils\bin\Debug\Utils.exe.config
+E:\@MyCode\Projects\Utils\dotNet\src\Utils\obj\Debug\Utils.exe
+E:\@MyCode\Projects\Utils\dotNet\src\Utils\obj\Debug\Utils.pdb
+E:\@MyCode\Projects\Utils\dotNet\src\Utils\bin\Debug\Utils.exe
+E:\@MyCode\Projects\Utils\dotNet\src\Utils\bin\Debug\Utils.pdb
+E:\@MyCode\Projects\Utils\dotNet\src\Utils\bin\Debug\FileSys.dll
+E:\@MyCode\Projects\Utils\dotNet\src\Utils\bin\Debug\FileSys.pdb
+E:\@MyCode\Projects\Utils\dotNet\src\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
